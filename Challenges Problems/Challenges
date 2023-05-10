@@ -1,0 +1,19 @@
+1. Write a function that takes a string and returns a new string with the letters in alphabetical order. For example, "hello" would become "ehllo".
+
+2. Write a function that takes an array of numbers and returns the sum of the squares of each number.
+
+3. Write a function that takes a sentence (string) and returns the longest word in the sentence.
+
+4. Write a function that takes two arrays of numbers and returns a new array with the elements that are common to both arrays.
+
+5. Write a function that takes a string and returns the number of vowels in the string.
+
+6. Write a function that takes an array of integers and returns the second largest integer in the array.
+
+7. Write a function that takes an array of strings and returns a new array with the same strings, but with the vowels removed.
+
+8. Write a function that takes an array of integers and returns the sum of all the even numbers in the array.
+
+9. Write a function that takes a string and returns a new string with the first letter of each word capitalized.
+
+10. Write a function that takes a string and returns true if the string is a palindrome (reads the same forwards and backwards), false otherwise.
