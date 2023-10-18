@@ -17,3 +17,22 @@
 9. Write a function that takes a string and returns a new string with the first letter of each word capitalized.
 
 10. Write a function that takes a string and returns true if the string is a palindrome (reads the same forwards and backwards), false otherwise.
+-------------------------------------------------------------------------------------------------------------------------
+Easy Challenges to refresh memory
+
+
+1. Sum of Even Numbers:
+Write a function that takes an array of numbers as input and returns the sum of all even numbers in the array.
+
+2. Reverse a String:
+Write a function that takes a string as input and returns the string in reverse order. For example, if the input is "hello", the function should return "olleh".
+
+3. Factorial Calculation:
+Write a function that calculates the factorial of a given positive integer. The factorial of a number n is the product of all positive integers from 1 to n.
+
+4. Palindrome Check:
+Write a function that takes a string as input and returns true if the string is a palindrome (reads the same forwards and backwards), and false otherwise.
+
+5. FizzBuzz:
+Write a program that prints the numbers from 1 to 100. But for multiples of three, print "Fizz" instead of the number, and for the multiples of five, print "Buzz". For numbers which are multiples of both three and five, print "FizzBuzz".
+

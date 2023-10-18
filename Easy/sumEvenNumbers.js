@@ -17,3 +17,4 @@ return sum
 
 const result = sumOfEvenNumbers(numbersArray)
 console.log('Sum of Even Numbers is :', result)
+
